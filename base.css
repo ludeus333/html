@@ -1,0 +1,41 @@
+*{box-sizing: border-box
+    ;}
+
+
+body{color: #f00;
+    font-family: 'Roboto', sans-serif;}
+
+
+.container{ background-color: black;
+    width: 700px;
+    color: #f00;
+    margin: auto;
+    padding: 50px;
+    border: 10px solid rgb(151, 0, 252);
+
+}
+
+.rede-social h2{ text-align: center;
+
+
+
+}
+
+.rede-social ul{ list-style: none;
+padding: 0;
+text-align: center;}
+
+.rede-social li{ margin-bottom: 12px;
+
+
+}
+
+.rede-social a{
+
+    text-decoration: 0 ;
+    color: black;
+}
+
+.rede-social a:hover{
+    color: turquoise;
+}
